@@ -31,7 +31,7 @@ Known Issues/What didn't work
 		-We tried to make it so that if the hangover length (amount the block hangs over the tower)
 		was small enough, it wouldn't get cut to a smaller size. It currently gets cut even the smallest
 		amount unless it's an absolutely perfect hit, so we wanted to give some leeway to give a longer
-		playtime. Every attempt led to errors so
+		playtime. 
 
  
 
