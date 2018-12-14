@@ -6,6 +6,8 @@ Claudia Gajes, Jake Steckel,
 Ramsey Villarreal, Sidney Mantwill
 
 GAME UPLOADED TO TAZ: http://taz.cs.wcupa.edu/~rv849160/Pile-it-UP/
+Game Design Documnet can be found here: http://taz.cs.wcupa.edu/~rv849160/Pile-it-UP-Design.pdf
+Burndown Chart can be found here: https://docs.google.com/spreadsheets/d/e/2PACX-1vT7FPbdjIbTyZZXTSUQNXueX5SsSVj3Js50p8ZLYALJ8y1R-YvkDYHTypgL3vsi4WA8tn7HgGY3zAeY/pubhtml
 
 What worked: 	
 	
